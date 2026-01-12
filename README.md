@@ -1,4 +1,10 @@
-## Hi there 👋
+- Hi, I'm Renz
+- I'm currently Computer Engineering
+- I chose my major because I find it interesting
+- A fun fact about me is: I enjoy recreational shooting 
+- What do I want to learn from EE 205?  object-oriented programming
+concepts and techniques
+- A book or movie I'd recommend is:  Little Man Tate
 
 <!--
 **Jacobe-R/Jacobe-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
