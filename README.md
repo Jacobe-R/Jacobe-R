@@ -1,5 +1,5 @@
 - Hi, I'm Renz
-- I'm currently Computer Engineering
+- I'm currently studying Computer Engineering
 - I chose my major because I find it interesting
 - A fun fact about me is: I enjoy recreational shooting 
 - What do I want to learn from EE 205?  object-oriented programming
